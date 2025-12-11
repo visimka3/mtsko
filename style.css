@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+ul,li{
+    list-style: none;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+}
+h1{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1100px;
+}
+.bak{
+    background: url(img/3.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 740px;
+}
+.nav{
+    display: flex;
+}
+.nav1{
+    display: flex;
+    margin-top: 35px;
+}
+.nav2{
+    margin-left: 20px;
+    color: #fff;
+}
+.bak1{
+      background-color: rgba(0, 0, 0, 0.5);
+}
+.h11{
+    margin-top: 160px;
+    color: #222;
+    font-size: 80px;
+    width: 700px;
+
+}
+.but{
+    margin-top: 30px;
+    width: 140px;
+    height: 50px;
+    border: #222;
+    background: #222;
+    border-radius: 20px;
+}
+.aperet{
+    color: #fff;
+    font-size: 17px;
+}
+.tr1{
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1500px;
+    height: 648px;
+  
+
+}
+.tr{
+  
+}
+.ser{
+    position: absolute;
+    color: #222;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.ser1{
+position: absolute;
+margin-top: 140px;
+margin-left: 150px;
+}
+.ser2{
+position: absolute;
+margin-top: 160px;
+margin-left: 150px;
+}
+
+.ser3{
+position: absolute;
+margin-top: 180px;
+margin-left: 150px;
+}
+
+.ser4{
+position: absolute;
+margin-top: 200px;
+margin-left: 150px;
+}
+.fot{
+    background: firebrick;
+    height: 130px;
+}
+.p{
+    color: firebrick;
+}
+.trza{
+    color: #fff;
+  font-size: 50px;
+}
+.kon{
+    color: #fff;
+    font-size: 20px;
+}
+.kontact{
+    display: flex;
+}
